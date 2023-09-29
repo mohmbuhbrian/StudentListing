@@ -1,0 +1,70 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Mohmbuh Brian",
+      "email": "mohmbuhbrian@gmail.com",
+      "phone": "677193954"
+    },
+    {
+      "name": "TitaNawa Kalima",
+      "email": "kalima@gmail.com",
+      "phone": "676228330",
+      "active": true,
+      "id": 2
+    },
+    {
+      "id": 4,
+      "name": "TitaNawa Cynthia",
+      "email": "titanawacynthia@gmail.com",
+      "phone": "675955040"
+    },
+    {
+      "id": 5,
+      "name": "Mua Wallace",
+      "email": "muawallce@gmai.com",
+      "phone": "677553728",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Nanda Tsafack Roxane Laure",
+      "email": "nandalaure@gmail.com",
+      "phone": "654472427"
+    },
+    {
+      "name": "Jane",
+      "email": "jane@gmail.com",
+      "phone": "655342178",
+      "active": true,
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "Tebi Njeik Bless Tebi",
+      "email": "tnjeik@gmail.com",
+      "phone": "675510703"
+    },
+    {
+      "name": "Abdoul Idriss",
+      "email": "Abdoulben44@gmail.com",
+      "phone": "+237 690866690",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "andy tresor",
+      "email": "manormoussa8@gmail.com",
+      "phone": "674500933",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "uuuuu",
+      "email": "iui@gamil.com",
+      "phone": "4444",
+      "active": true,
+      "id": 11
+    }
+  ]
+}
